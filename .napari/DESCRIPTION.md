@@ -2,4 +2,4 @@ This is my napari-hub specific description. It is detailed, and comprehensive (v
 
 I'm changing this description to test my plugin preview.
 
-This is a description edited in a fork of the main repo.
+This is a description edited in a fork of the main repo, after installing the napari hub plugin preview app.
