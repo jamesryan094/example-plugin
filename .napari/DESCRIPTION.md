@@ -7,3 +7,5 @@ This is a description edited in a fork of the main repo, after installing the na
 Just checking whether this commit will wake the napari-hub-bot up.
 
 Checking if updating permissions wakes up the bot?
+
+Changing after pointing to feature branch.
